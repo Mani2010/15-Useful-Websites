@@ -20,7 +20,7 @@ font-weight: bold;
 }
 
 .Yt{
-    background-color: pink;
+    background-color: darkcyan;
 }
 .Office{
 
@@ -30,5 +30,25 @@ font-weight: bold;
    background-color: darkgreen;
 }
 .Li{
-    background-color: darkcyan;
+    background-color: blueviolet;
+}
+
+.Movie{
+    background-color: coral;
+}
+
+.Ph{
+    background-color: crimson;
+}
+
+.bts{
+    background-color: darkolivegreen;
+}
+
+.btv{
+    background-color: maroon;
+}
+
+.btu{
+    background-color: lightslategrey;
 }
