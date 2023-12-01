@@ -1,54 +1,71 @@
-html{
+html
+{
     scroll-behavior: smooth;
     
 }
 
-body{
+body
+{
 text-align: center;
 background-color: cadetblue;;
 font-family: cursive;    
 }
 
-h1{
+h1
+{
 color: black;
 font-weight: bold;    
 }
 
-h2{
+h2
+{
  color: black;
 font-weight: bold;   
 }
 
-.Yt{
+.Yt
+{
     background-color: darkcyan;
 }
-.Office{
+
+.Office
+{
 
     background-color: orangered;
 }
-.So{
+
+.So
+{
    background-color: darkgreen;
 }
-.Li{
+
+.Li
+{
     background-color: blueviolet;
 }
 
-.Movie{
+
+.Movie
+{
     background-color: coral;
 }
 
-.Ph{
+.Ph
+{
     background-color: crimson;
 }
 
-.bts{
+.bts
+{
     background-color: darkolivegreen;
 }
 
-.btv{
+.btv
+{
     background-color: maroon;
 }
 
-.btu{
+.btu
+{
     background-color: lightslategrey;
 }
